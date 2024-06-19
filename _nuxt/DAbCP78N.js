@@ -1,0 +1,2 @@
+import{_ as e}from"./DlAUqK2U.js";import{c as t,o,a as s}from"./DNJ34qtX.js";const c={},n={class:"d-flex align-items-center justify-content-around w-100 bg-dark",style:{height:"100vh"}},r=s("h1",{class:"text-center fw-bold font-weight-bold",style:{color:"#AC8D64","font-size":"5rem"}},"FéCaffé",-1),a=[r];function i(_,d){return o(),t("div",n,a)}const h=e(c,[["render",i]]);export{h as default};
+//# sourceMappingURL=DAbCP78N.js.map
